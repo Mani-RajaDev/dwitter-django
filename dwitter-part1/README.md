@@ -1,4 +1,4 @@
-Part 1: Setting up the Django Project
+# Dwitter Part 1: User and Profile Models
 
 In this part of the development process, I set up the Django project, created an app called "dwitter", extended the built-in user model using a OneToOne field, and set up the profile relationship model.
 
