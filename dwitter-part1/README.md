@@ -12,3 +12,6 @@ In this part of the development process, I set up the Django project, created an
 6. Created a new model called Profile in the models.py file with a OneToOne field that connects to the built-in User model and a follows field that is a ManyToMany field to self.
 7. Modified the models.py file to include signals that automatically create a user profile when a user is created and make the user follow themselves.
 8. Registered the profile model in the admin.py file.
+
+## Next Steps
+In Part 2 of this project, we will be adding CSS styles to our Django app using the Bulma framework. The Bulma framework is a popular CSS framework that provides a clean and modern design.
