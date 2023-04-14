@@ -14,4 +14,4 @@ In this part of the development process, I set up the Django project, created an
 8. Registered the profile model in the admin.py file.
 
 ## Next Steps
-In the next part of the development process, I will be adding CSS styles to the app using the Bulma framework.This will give the app a clean and modern look, making it more user-friendly and visually appealing.Stay tuned for more updates on this exciting development!
+In the next part of the development process, I will be adding CSS styles to the app using the Bulma framework. This will give the app a clean and modern look, making it more user-friendly and visually appealing. Stay tuned for more updates on this exciting development!
