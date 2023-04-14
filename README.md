@@ -13,7 +13,7 @@ The development process is divided into four parts:
 
 ## Development Process
 
-### Part 1: Setting up the Django Project
+### Part 1: User and Profile Models
 
 In the first part of the development process, I set up the Django project, extended the built-in user model, and set up the profile relationship model. Here are the steps I took:
 
