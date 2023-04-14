@@ -20,6 +20,7 @@ In the first part of the development process, I set up the Django project, exten
 - Created a new directory for the project and set up a virtual environment using `venv`.
 - Installed Django using `pip`.
 - Created a new project using the `django-admin startproject` command.
+- Created a new app within the project called "dwitter" using the `python manage.py startapp dwitter` command.
 - Extended the built-in user model.
 - Set up the profile relationship model using `OnetoOneField` and `ManyToManyField`.
 - Added the source code for this part to the `dwitter-part1` subdirectory.
