@@ -6,7 +6,7 @@ Welcome to my social network app, developed using Django! This app allows users 
 
 The development process is divided into four parts:
 
-1. Setting up the Django project, extending the built-in user model, and setting up the profile relationship model.
+1. Setting up the Django project, extending the built-in user model, setting up the profile relationship model, and implementing a Post-Save Hook .
 2. Adding CSS styles using the Bulma framework.
 3. Building and handling post requests.
 4. Building and submitting HTML forms with Django.
