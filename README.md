@@ -2,6 +2,9 @@
 
 Welcome to my social network app, developed using Django! This app allows users to post text messages and follow other users, similar to Twitter.
 
+## Note 
+The source code for each part of the project is available in separate subdirectories. You can find the detailed instructions for each part in their respective README files.
+
 ## Overview
 
 The development process is divided into four parts:
@@ -17,7 +20,9 @@ The development process is divided into four parts:
 
 In the first part of the development process, I set up the Django project, extended the built-in user model, and set up the profile relationship model.
 
-- Added the source code for this part to the `dwitter-part1` subdirectory.
+## Part 2: Designing Templates and Front-End Styling
+
+In this part of the development process, I added a base template using Bulma CSS and implemented the ability to list all user profiles, access individual profile pages, and display the profiles a user follows and the profiles that follow the user.
 
 ## Conclusion
 
