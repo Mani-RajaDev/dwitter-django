@@ -6,10 +6,10 @@ Welcome to my social network app, developed using Django! This app allows users 
 
 The development process is divided into four parts:
 
-1. Setting up the Django project, extending the built-in user model, setting up the profile relationship model, and implementing a Post-Save Hook .
-2. Adding CSS styles using the Bulma framework.
-3. Building and handling post requests.
-4. Building and submitting HTML forms with Django.
+1. Models and Relationships: Set up the base project, extend the Django user model, and implement a post-save hook.
+2. Templates and Front-End Styling: Design a visually appealing user interface by creating a base template with Bulma. Create a dynamic list of all user profiles and enable easy access to individual profile pages.
+3. Follows and Dweets: Allow users to follow and unfollow other profiles, create the back-end logic for dweets (user posts), and display them on the front end.
+4. Forms and Submissions: Enable users to submit dweets through a Django form, prevent double submissions, handle errors, and improve the front-end user experience.
 
 ## Development Process
 
