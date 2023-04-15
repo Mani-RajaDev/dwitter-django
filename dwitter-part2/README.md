@@ -10,7 +10,7 @@ In this part of the development process, I added a base template using Bulma CSS
 4. Modified the views.py file to include a view function (`profile_list()`) that retrieves all user profiles and renders the user profile list template.
 5. Added a URL route in urls.py to map to the view function.
 6. Created another HTML template (`profile.html`) which also inherits the base template for the individual user profile pages.
-7. Modified the views.py file to include a new view function (``profile()`) that retrieves an individual user profile and renders the user profile page template.
+7. Modified the views.py file to include a new view function (`profile()`) that retrieves an individual user profile and renders the user profile page template.
 8. Added a new URL route in urls.py to map to the new view function.
 9. Linked the profile pages by updating the links in the profile list to point to the correct user profile page.
 
