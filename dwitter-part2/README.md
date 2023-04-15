@@ -15,4 +15,4 @@ In this part of the development process, I added a base template using Bulma CSS
 9. Linked the profile pages by updating the links in the profile list to point to the correct user profile page.
 
 ## Next Steps
-In the third part of the development process, I will be implementing the functionality for users to post dweets (tweets) using the Django admin interface. This will involve creating a new model to store dweets, and displaying dweets on the front-end. Stay tuned for more updates on this exciting development!
+In the third part of the development process, I will be implementing the functionality for users to post dweets. This will involve creating a new model to store dweets, and displaying dweets on the front-end. Stay tuned for more updates on this exciting development!
