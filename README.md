@@ -24,7 +24,9 @@ In the first part of the development process, I set up the Django project, exten
 
 In this part of the development process, I added a base template using Bulma CSS and implemented the ability to list all user profiles, access individual profile pages, and display the profiles a user follows and the profiles that follow the user.
 
-## Part 3: Implementing Follows and Dweets: In this part of the development process,I added functionality that allows users to follow and unfollow other profiles, as well as created a backend logic for posting and displaying dweets on the user dashboard. This allows for a more engaging user experience, enabling users to easily connect with other users and share their thoughts through dweets.
+## Part 3: Implementing Follows and Dweets: 
+
+In this part of the development process,I added functionality that allows users to follow and unfollow other profiles, as well as created a backend logic for posting and displaying dweets on the user dashboard. This allows for a more engaging user experience, enabling users to easily connect with other users and share their thoughts through dweets.
 
 ## Conclusion
 
