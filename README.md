@@ -28,6 +28,9 @@ In this part of the development process, I added a base template using Bulma CSS
 
 In this part of the development process,I added functionality that allows users to follow and unfollow other profiles, as well as created a backend logic for posting and displaying dweets on the user dashboard. 
 
+## Part 4: Creating Forms and Handling Submissions:
+In this phase, I enabled users to submit dweets using a Django form on the platform's front-end. Additionally, I implemented measures to prevent double submissions and handle errors, enhancing the user experience.
+
 ## Conclusion
 
 That's it for now! I'll continue to update this README.md file as I make progress on my social network app development project. Thank you for checking it out!
