@@ -26,7 +26,7 @@ In this part of the development process, I added a base template using Bulma CSS
 
 ## Part 3: Implementing Follows and Dweets: 
 
-In this part of the development process,I added functionality that allows users to follow and unfollow other profiles, as well as created a backend logic for posting and displaying dweets on the user dashboard. This allows for a more engaging user experience, enabling users to easily connect with other users and share their thoughts through dweets.
+In this part of the development process,I added functionality that allows users to follow and unfollow other profiles, as well as created a backend logic for posting and displaying dweets on the user dashboard. 
 
 ## Conclusion
 
