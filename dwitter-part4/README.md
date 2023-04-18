@@ -8,5 +8,5 @@ In this phase of the project, I implemented the ability for users to submit dwee
 3. Added measures to prevent double submissions and handle errors in the form submission process, ensuring that the submission process is reliable and error-free.
 4. Improved the front-end by adding a button in the user's dashboard that makes it easier for them to access their profile.
 
-## Next Steps
+## Note
 Although the project was originally planned to be a four-part development process, the platform is currently invite-only. However, I will be implementing user registration and management to allow more users to join and engage with each other. Stay tuned for updates!
